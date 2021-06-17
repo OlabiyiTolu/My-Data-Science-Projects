@@ -1,2 +1,2 @@
 # My-Data-Science-Projects
-These are the projects I have done on Data Analysis using python programming language, they are done with jupyter Notebook
+This is a compiled list of different projects I have done on Data Analysis using python programming language
